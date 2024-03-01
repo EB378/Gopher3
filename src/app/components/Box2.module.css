@@ -1,0 +1,25 @@
+.oa2 {
+    background-image: url("tes_img2.jpeg");
+    left: 0;
+    top: 0;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    width: 100%;
+    background-size: 100% 100%;
+    overflow: auto;
+    color: black;
+  }
+
+  .Face {
+    -webkit-box-reflect: below 0px linear-gradient(to bottom, rgba(0,0,0,0.0), rgba(0,0,0,0.4));
+    float: left;
+    border-radius: 10%;
+    padding: 0%;
+    width: 20%;
+    margin-left: 10%;
+    opacity: 1;
+  }
+
+.quotes {
+    margin-right: 10%;
+  }

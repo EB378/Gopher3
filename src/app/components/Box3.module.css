@@ -1,0 +1,15 @@
+.oa3 {
+    background-image: url("./tes_img.jpeg");
+    left: 0;
+    top: 0;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    width: 100%;
+    background-size: 100% 100%;
+    overflow: auto;
+    color: white;
+  }
+
+.colour {
+  color: rgb(199, 173, 122);
+}
