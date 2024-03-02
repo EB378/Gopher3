@@ -4,7 +4,7 @@ export default function Logo() {
     <div className={styles.oa2}>
       <img require src="./BenniAlexanderFace.jpeg" alt="Netlify Logo" className={styles.Face} />
       <h2>Benni Alexander, CEO</h2>
-      <h5 className={styles.quotes}>"The Gopher aproach is garanteed results. We have worked for over a dacade gathering real life examples of what happens when companies take Business continuity seriously, vs when they don't."</h5>
+      <h5 className={styles.quotes}>"The Gopher approach is guaranteed results. We have worked for over a decade gathering real life examples of what happens when companies take Business continuity seriously, vs when they don't."</h5>
     </div>
   )
 }
