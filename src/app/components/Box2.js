@@ -2,9 +2,9 @@ import styles from './Box2.module.css'
 export default function Logo() {
   return (
     <div className={styles.oa2}>
-      <img require src="./BenniAlexanderFace.jpeg" alt="Netlify Logo" className={styles.Face} />
-      <h2>Benni Alexander, CEO</h2>
-      <h5 className={styles.quotes}>"The Gopher approach is guaranteed results. We have worked for over a decade gathering real life examples of what happens when companies take <a href="#home" className={styles.a}>Business continuity</a> seriously, vs when they don't."</h5>
+      <img require src="./_81d72904-90ac-4a11-8798-f62a72168526.jpeg" alt="IMAGE  TBD" className={styles.Face} />
+      <h2>SMTH</h2>
+      <h5 className={styles.quotes}>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim d.</h5>
     </div>
   )
 }

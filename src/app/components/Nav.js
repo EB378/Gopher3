@@ -5,10 +5,12 @@ export default function Nav() {
     <>
       <div className={styles.topnav}>
           <Logo />
-          <a href="#home">Gopher</a>
+          <a href="#home">Imperium</a>
           <a href="#news">News</a>
+          <a href="#pricing">Pricing</a>
           <a href="#contact">Contact</a>
           <a href="#about">About</a>
+          <a href="#testamonials">Testamonials</a>
       </div>
     </>  
   )
