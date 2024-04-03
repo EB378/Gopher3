@@ -5,9 +5,9 @@ import Box3 from "@/app/components/Box3";
 export default function Homepage() {
   return (
     <>
-        <Box1/>
-        <Box2/>
-        <Box3/>
+      <Box1/>
+      <Box2/>
+      <Box3/>
     </>  
   )
 }

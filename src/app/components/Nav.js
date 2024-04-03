@@ -8,10 +8,10 @@ export default function Nav() {
           <Logo />
           <Link href="/">Imperium</Link>
           <Link href="/news">News</Link>
-          <Link href="#pricing">Pricing</Link>
-          <Link href="#contact">Contact</Link>
-          <Link href="#about">About</Link>
-          <Link href="#testamonials">Testamonials</Link>
+          <Link href="/pricing">Pricing</Link>
+          <Link href="/contact">Contact</Link>
+          <Link href="/about">About</Link>
+          <Link href="/testamonials">Testamonials</Link>
       </div>
     </>  
   )
