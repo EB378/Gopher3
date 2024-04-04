@@ -9,7 +9,7 @@ export default () => (
                 <header className="App-header">
                     <Nav/>
                 </header>
-                <p>Prcing</p>
+                <p>Pricing</p>
             </div>
         </main>
     </>
