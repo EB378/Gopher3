@@ -9,9 +9,11 @@ export default function Home() {
       <div className="App">
         <header className="App-header">
           <Nav/>
-          <Homepage/>
         </header>
-        <p>This is a active website currently in use for school project. This domain is in use. Site last update 03.04.2024 (dd/mm/yyyy). <br /> We accept no liability in any form for the this website/web application. For more information contact: eric.benni@opp.eduvantaa.fi.</p>
+        <Homepage/>
+        <footer className="App-footer">
+          <p>This is a active website currently in use for school project. This domain is in use. Site last update 03.04.2024 (dd/mm/yyyy). <br /> We accept no liability in any form for the this website/web application. For more information contact: eric.benni@opp.eduvantaa.fi.</p>
+        </footer>
       </div>
     </main>
   );
