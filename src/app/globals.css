@@ -118,12 +118,6 @@ code {
 .App-header {
   background-color: #282c34;
 }
-
-.App-footer {
-  background-color: #000000;
-  color: #fff;
-  font-size: calc(1px + 1vmin);
-}
 .App-link {
   color: #61dafb;
 }
