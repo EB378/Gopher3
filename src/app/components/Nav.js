@@ -6,11 +6,15 @@ export default function Nav() {
       <div className={styles.topnav}>
         <img src='/Gopher.png' alt="Netlify Logo" href="#home" className={styles.flogo} />
         <Link href="/">Imperium</Link>
-        <Link href="/news">News</Link>
-        <Link href="/pricing">Pricing</Link>
-        <Link href="/contact">Contact</Link>
         <Link href="/about">About</Link>
+        <Link href="/clients">Target Audience</Link>
         <Link href="/testamonials">Testamonials</Link>
+        <Link href="/contact">Contact</Link>
+        <div className={styles.rightalignment}>
+          <Link href="/pricing">Plans</Link>
+          <Link href="/pricing">Join</Link>
+          <Link href="#login">Log In</Link>
+        </div>
       </div>
     </>  
   )
