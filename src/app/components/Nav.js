@@ -12,7 +12,7 @@ export default function Nav() {
         <Link href="/contact">Contact</Link>
         <div className={styles.rightalignment}>
           <Link href="/pricing">Plans</Link>
-          <Link href="/pricing">Join</Link>
+          <Link href="/join">Join</Link>
           <Link href="#login">Log In</Link>
         </div>
       </div>
