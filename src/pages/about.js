@@ -1,16 +1,11 @@
-import styles from "@/app/page.module.css";
-import Nav from '@/app/components/Nav';
 import "@/app/globals.css";
+import RootLayout from "@/app/layout";
+
 
 export default () => (
     <>
-        <main className={styles.main}>
-            <div require className="App">
-                <header className="App-header">
-                    <Nav/>
-                </header>
-                <p>About</p>
-            </div>
-        </main>
+    <RootLayout>
+        <p>About</p>
+    </RootLayout>
     </>
 );
