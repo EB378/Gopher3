@@ -7,7 +7,7 @@ import Footer from '@/app/components/Footer';
   return (
     <html lang="en">
       <head>
-        <title>Imperium BCMA</title>
+        <title>Gopher LLC</title>
       </head>
       <body>
         <Nav />
